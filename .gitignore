@@ -1,0 +1,17 @@
+# Ignore macos related files
+.DS_Store
+
+# CMake / build folders anywhere
+build/
+cmake-build*/
+cmake-debug-build/
+cmake-release-build/
+*/build/
+*/cmake-build*/
+
+# Notebook related things..
+.ipynb_checkpoints/
+
+# IDE's
+.idea/
+*.iml
