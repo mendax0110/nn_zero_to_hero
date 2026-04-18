@@ -15,3 +15,5 @@ cmake-release-build/
 # IDE's
 .idea/
 *.iml
+*/.venv*
+*/venv*
